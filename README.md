@@ -5,6 +5,9 @@
 На текущий момент нахожусь в поиске работы, буду рада приглашению к сотрудничеству.  
 
 ---
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anastasija.awilova@yandex.ru)](mailto:anastasija.awilova@yandex.ru) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc&link=https://t.me/Anastasiavilova)](https://t.me/Anastasiavilova)
+
+---
 ### :pick: Технологии
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" title="react" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50" title="redux" /> <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" width="50" height="50" title="ReactRouter" />  
 
