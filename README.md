@@ -2,7 +2,7 @@
 
 Меня зовут Анастасия Авилова, занимаюсь фронтенд-разработкой с 2023 года, в эту сферу я пришла по-любви :green_heart:. Для меня важно изучать новые технологии и добиваться качества в своей работе.  
 
-На текущий момент нахожусь в поиске работы, буду рада приглашению к сотрудничеству.  
+Сейчас я активно ищу работу [вот моё резюме на hh.](https://hh.ru/applicant/resumes/view?resume=347044b9ff0e3bd6830039ed1f505656327150)  
 
 ---
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anastasija.awilova@yandex.ru)](mailto:anastasija.awilova@yandex.ru) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc&link=https://t.me/Anastasiavilova)](https://t.me/Anastasiavilova)
